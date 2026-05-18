@@ -1,0 +1,14 @@
+# Скомпільовані класи
+*.class
+
+# Результати (генеруються при запуску)
+results/*.csv
+
+# IDE
+.idea/
+.vscode/
+*.iml
+out/
+
+# macOS
+.DS_Store

@@ -1,3 +1,4 @@
+
 # ДЗ 1 — Лінійне обчислення числа π методом Монте-Карло (Java)
 
 ## Опис
@@ -57,3 +58,7 @@ N,pi_estimated,accuracy,execution_time_sec,time_per_point
   - 100B → ~20–30 хв
 - Результати є стохастичними — кожен запуск дає трохи інше значення π.
 - Потрібна Java 11+.
+=======
+# Karina_Medvedieva_KI-43-homework-1
+tg: kerinsesss 
+
